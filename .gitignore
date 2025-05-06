@@ -3,6 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#PynewFiles
+pynews*
+format.json
+export.py
+worker.py
+
 # C extensions
 *.so
 

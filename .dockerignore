@@ -1,0 +1,9 @@
+.git
+__pycache__
+*.pyc
+tests/
+docs/
+.venv/
+node_modules/
+.env/
+# ... other files/directories to exclude
